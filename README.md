@@ -21,6 +21,10 @@ A classic Rock Paper Scissors game with a smooth and responsive graphical interf
 
 > 📁 Project folder: `RockPaperScissors/`
 
+### 📸 Screenshot
+
+![Rock Paper Scissors Screenshot](RockPaperScissors/Rock%20Papper%20Scissors.PNG)
+
 ---
 
 ## 🚀 Getting Started
